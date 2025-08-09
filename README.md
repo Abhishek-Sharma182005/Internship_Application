@@ -8,7 +8,7 @@
 ---
 
 ##  About Me
-I’m **Abhishek Sharma**, a B.Tech final-year ECE student (VLSI specialization) at GLA University (2025 graduation).  
+I’m **Abhishek Sharma**, a B.Tech final-year ECE student (VLSI specialization) at GLA University.  
 I excel in **digital design, semiconductor architecture, and hardware-software co-design**—building real systems while leading tech initiatives with tangible impact.
 
 ---
